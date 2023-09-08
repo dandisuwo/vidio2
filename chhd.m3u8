@@ -1,4 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://etslive-2-vidio-com.akamaized.net/exp=1693755004~acl=/hls-b/ingest_13610_*/*~hmac=1d10f738d70c9b8d475b33fbe58df41690a2c10da0b758687d7302138e6fea94/hls-b/ingest_13610_720p/index.m3u8
+#EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,URI="http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-mp4a_98800=2.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="und",NAME="Undetermined",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=1275765,AVERAGE-BANDWIDTH=1159788,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-0,AUDIO="audio-AACL-99"
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_1000000=4.m3u8
