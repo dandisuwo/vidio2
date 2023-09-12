@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,URI="http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-mp4a_98800=2.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="und",NAME="Undetermined",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-STREAM-INF:BANDWIDTH=1275765,AVERAGE-BANDWIDTH=1159788,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-0,AUDIO="audio-AACL-99"
-https://1m-rcti.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1694557382-c9980c5a03fc9eff7de1cc650414c838-0-bbff50b9dfc0f9beb676f997a5528705
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_1000000=4.m3u8
